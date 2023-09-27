@@ -1,0 +1,23 @@
+_repo: Ralph-Trulock-s-Christmas-Roses_71699
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lyster, Annette
+    gutenberg_agent_id: '56259'
+    url: http://www.gutenberg.org/2009/agents/56259
+description: ''
+gutenberg_issued: '2023-09-21'
+identifiers:
+  gutenberg: '71699'
+language: en
+pgterms:marc905: 20230919064334lyster
+pgterms:marc906: '1921'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ralph Trulock's Christmas Roses
+url: http://www.gutenberg.org/ebooks/71699
